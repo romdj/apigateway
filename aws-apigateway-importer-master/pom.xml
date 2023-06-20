@@ -29,7 +29,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-core</artifactId>
-            <version>[1.8.6,1.10.77)</version>
+            <version>1.12.491</version>
         </dependency>
 
         <dependency>
@@ -95,7 +95,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>18.0</version>
+            <version>32.0.0-android</version>
         </dependency>
 
         <dependency>
